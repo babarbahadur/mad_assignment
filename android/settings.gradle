@@ -1,0 +1,4 @@
+rootProject.name = 'our_todo_app'
+
+include ':app'
+../node_modules/react-native-gesture-handler/android
